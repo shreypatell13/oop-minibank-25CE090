@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.dat
+*.log
+bin/
+build/
+.idea/
+*.iml
